@@ -1,0 +1,7 @@
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\bin\Debug\Retrieve_And_Sort_Sort_Student_Data.exe.config
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\bin\Debug\Retrieve_And_Sort_Sort_Student_Data.exe
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\bin\Debug\Retrieve_And_Sort_Sort_Student_Data.pdb
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\obj\Debug\Retrieve_And_Sort_Sort_Student_Data.csproj.AssemblyReference.cache
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\obj\Debug\Retrieve_And_Sort_Sort_Student_Data.csproj.CoreCompileInputs.cache
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\obj\Debug\Retrieve_And_Sort_Sort_Student_Data.exe
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject3\Retrieve_And_Sort_Sort_Student_Data\Retrieve_And_Sort_Sort_Student_Data\obj\Debug\Retrieve_And_Sort_Sort_Student_Data.pdb
